@@ -1,0 +1,8 @@
+{
+  "name": "NotaryPro WP - Notary & PPAT Digital Office",
+  "description": "Premium White-Label WordPress Theme & Core Plugin Suite for Notary & PPAT with Google Apps Script Middleware, Private Document Vault, and Dynamic Fee Calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
